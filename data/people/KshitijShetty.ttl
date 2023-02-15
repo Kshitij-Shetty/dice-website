@@ -5,3 +5,5 @@ dice:KshitijShetty a schema:Person ;
   schema:name "Kshitij Shetty" ;
   schema:role dice:StudentResearcher ;
   schema:email <mailto:kshitij@mail.uni-paderborn.de> .
+  schema:photo "srivastava.jpg" ;
+  schema:project dice:IDA, dice:PORQUE ;
